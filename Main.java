@@ -1,6 +1,6 @@
 //TODO: <name>
 //TODO: <date>
-//Practice 2014 - 10: //TODO
+//Practice 2014 - 10: The Magic Word
 
 public class  {
   public static void main(String[] args) {

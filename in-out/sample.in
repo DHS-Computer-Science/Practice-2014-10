@@ -1,0 +1,70 @@
+tangado x
+anno x 3
+aderthad x 2
+canad x
+adlanna x 2
+canad x
+adlegi x 1
+canad x
+athrado x 3
+canad x
+tangado i
+ost sequence 10
+anno sequence[0] 0
+anno sequence[sequence[0]] 0
+anno sequence[2] 1
+anno sequence[3] 1
+anno sequence[4] 1
+anno sequence[5] 1
+anno sequence[6] 0
+anno sequence[7] 3
+anno sequence[8] 4
+anno sequence[9] 5
+sad loop
+muindor i 10 end
+muindor sequence[i] 0 ttthti
+muindor sequence[i] 1 gar
+muindor sequence[i] 2 ggar
+muindor sequence[i] 3 wdys
+muindor sequence[i] 4 th
+muindor sequence[i] 5 ti
+muindor sequence[i] 6 tmwhg
+muindor sequence[i] 7 abom
+muindor sequence[i] 8 sfh
+muindor sequence[i] 9 lnancb
+sad ttthti
+teithant "They're taking the hobbits to Isengard!"
+arth pool
+sad gar
+teithant "Gard"
+arth pool
+sad ggar
+teithant "Ga-gard"
+arth pool
+sad wdys
+teithant "What did you say?"
+arth pool
+sad th
+teithant "The hobbits"
+arth pool
+sad ti
+teithant "To Isengard!"
+arth pool
+sad tmwhg
+teithant "Tell me, where is Gandalf, for I much desire to speak with him."
+arth pool
+sad abom
+teithant "A balrog of Morgoth"
+arth pool
+sad sfh
+teithant "Stupid fat hobbit!"
+arth pool
+sad lnancb
+teithant "Leave now, and never come back!"
+arth pool
+sad pool
+aderthad i 1
+arth loop
+sad end
+awarthad
+END
